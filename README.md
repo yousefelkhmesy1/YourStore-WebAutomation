@@ -77,4 +77,7 @@ test-output/ExtentReport/index.html
 
 
 Author:
+Team of 4 Automation Testers
+
+
 Web Automation • Software Testing
